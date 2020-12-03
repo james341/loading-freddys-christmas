@@ -71,6 +71,12 @@ var l_bgImages = [
 	"image16.jpg",
 	"image17.jpg",
 	"image18.jpg",
+	"image19.jpg",
+	"image20.jpg",
+	"image21.jpg",
+	"image22.jpg",
+	"image23.jpg",
+	"image24.jpg",
 ];
 
 /*Random background images order?*/
@@ -104,11 +110,11 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "49LAPkV9xJg", name: "Nations - Installation Music"},
-	{youtube: "ysxlUmLOttQ", name: "Nations - Installation Music"},
+	{youtube: "3PgNPc-iFW8", name: "Nations - Installation Music"},
+	{youtube: "D-MORJmvvQw", name: "Nations - Installation Music"},
         {youtube: "3PgNPc-iFW8", name: "Nations - Installation Music"},
         {youtube: "jj-oTtHTwVY", name: "Nations - Installation Music"},
-        {youtube: "pygtSaf1xmM", name: "Nations - Installation Music"},
+        {youtube: "bjHtqx852Yc", name: "Nations - Installation Music"},
         {youtube: "hMhMekfIyos", name: "Nations - Installation Music"},
 
 ];
