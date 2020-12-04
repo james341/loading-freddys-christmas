@@ -115,12 +115,12 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "3PgNPc-iFW8", name: "Nations - Installation Music"},
+	{youtube: "dQQruRTuq9I", name: "Nations - Installation Music"},
 	{youtube: "n0hhl5XT11c", name: "Nations - Installation Music"},
         {youtube: "3PgNPc-iFW8", name: "Nations - Installation Music"},
         {youtube: "jj-oTtHTwVY", name: "Nations - Installation Music"},
-        {youtube: "bjHtqx852Yc", name: "Nations - Installation Music"},
-        {youtube: "hMhMekfIyos", name: "Nations - Installation Music"},
+        {youtube: "oLgoshZeA8Q", name: "Nations - Installation Music"},
+        {youtube: "tEXC7ozI8Gk", name: "Nations - Installation Music"},
 
 ];
 
@@ -149,7 +149,7 @@ var l_messages = [
         "Doxxing is the posting of identifying information about yourself or someone else. Doxxing is against the rules on Model. Even if you are an adult, doxxing yourself may encourage younger members of the model to do the same, so all forms of it are banned. There are several things that constitute doxxing!",
         "Animatronics can KOS you from 12:00 am to 5:00 am in-game time. They are allowed to kill you at this time since it is after closing if you are in the restaurant!",
         "Profanity is allowed, but explicit language and adult themes/content is strictly forbidden!",
-        "All staff decisions are final. Arguing will result in a longer punishment or a ban if continued!",
+        "Don't spam SWEPs.  Don't rapidly click your SWEPs because it gets really annoying and hurts people's ears!",
         "Animatronics cannot exit the Restaurant. They cannot chase players outside the restaurant, but they can do /me grabs the child before they leave the restaurant!",
         "Anyone caught baiting or encouraging others to violate rules will have an equal or greater punishment to the rule violation!",
         "KOS signs most are clearly placed at the entrance of a KOS area it must be sized and colored clearly any attempts to bait people into areas with obscure KOS signs will result in punishment from staff!",
@@ -173,7 +173,7 @@ var l_messages = [
         "If you are handcuffed, you must comply with the officer. Not doing so can be considered FailRP. If the police officer gets distracted and leaves you alone, you may attempt an escape!",
         "If somebody is wanted you may AOS/KOS the person. In order to KOS, you must warn the criminal at least 3 times to stop Moving. If they comply, you must arrest them instead!",
         "Hate speech, predatory behaviour, graphic violence, malicious attacks, and content that promotes harmful or dangerous behaviour isn't allowed!",
-        "Obey all staff members, they have final say on all issues, if you have an Issue with the decision of a staff member, speak to a Manager!"
+        "You must have a gun store open Self-supplying, Is not allowed. You may set your own prices for the shipments!"
 
 ];
 /*Random message order?*/
