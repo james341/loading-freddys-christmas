@@ -149,7 +149,7 @@ var l_messages = [
         "It's forbidden to stay in the back rooms of the pizzeria during the day (excl. Broken animatronics and plush toys in the basement) [Punishment: warn / Ban 10-20min]!",
         "Doxxing is the posting of identifying information about yourself or someone else. Doxxing is against the rules on Model. Even if you are an adult, doxxing yourself may encourage younger members of the model to do the same, so all forms of it are banned. There are several things that constitute doxxing!",
         "Animatronics can KOS you from 12:00 am to 5:00 am in-game time. They are allowed to kill you at this time since it is after closing if you are in the restaurant!",
-        "Profanity is allowed but explicit language and adult themes/content is strictly forbidden!",
+        "Do not no-clip without being cloaked. It is annoying to see non-cloaked admins flying around the server and getting in the way, so just cloak yourself! It also breaks roleplay!",
         "Don't spam SWEPs.  Don't rapidly click your SWEPs because it gets really annoying and hurts people's ears!",
         "Animatronics cannot exit the Restaurant. They cannot chase players outside the restaurant, but they can do /me grabs the child before they leave the restaurant!",
         "Anyone caught baiting or encouraging others to violate rules will have an equal or greater punishment to the rule violation!",
