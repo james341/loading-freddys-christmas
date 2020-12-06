@@ -120,7 +120,8 @@ var l_musicPlaylist = [
         {youtube: "9QPQI5QUs74", name: "Nations - Installation Music"},
         {youtube: "jj-oTtHTwVY", name: "Nations - Installation Music"},
         {youtube: "oLgoshZeA8Q", name: "Nations - Installation Music"},
-        {youtube: "9QPQI5QUs74", name: "Nations - Installation Music"},
+        {youtube: "3k-YIt2p5AU", name: "Nations - Installation Music"},
+	{youtube: "9QPQI5QUs74", name: "Nations - Installation Music"},
 
 ];
 
