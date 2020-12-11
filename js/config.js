@@ -129,14 +129,14 @@ var l_musicPlaylist = [
 	{youtube: "5VO3w8na3CA", name: "Nations - Installation Music"},
 	{youtube: "vAwDyMz2j5I", name: "Nations - Installation Music"},
         {youtube: "30TkClWvT5k", name: "Nations - Installation Music"},
-        {youtube: "jj-oTtHTwVY", name: "Nations - Installation Music"},
+        {youtube: "L0MK7qz13bU", name: "Nations - Installation Music"},
         {youtube: "oLgoshZeA8Q", name: "Nations - Installation Music"},
         {youtube: "mng4p8yWFjs", name: "Nations - Installation Music"},
 	{youtube: "rWf7ArCy-Dg", name: "Nations - Installation Music"},
 	{youtube: "3k-YIt2p5AU", name: "Nations - Installation Music"},
-	{youtube: "9QPQI5QUs74", name: "Nations - Installation Music"},
-	{youtube: "rXCwuFSDiXI", name: "Nations - Installation Music"},
-	{youtube: "MtKkatg87TM", name: "Nations - Installation Music"},
+	{youtube: "IBpEYFI7qMo", name: "Nations - Installation Music"},
+	{youtube: "RmUWWVZw28E", name: "Nations - Installation Music"},
+	{youtube: "FuAHR4lkjCo", name: "Nations - Installation Music"},
 
 ];
 
@@ -152,7 +152,7 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"Its forbidden to leave the Basement of the pizzeria and the sewer during the day (being near the door / on the stairs is equivalent to a violation) [Punishment: warn / Ban 10-20min] It is forbidden to attack immediately, first the broken animatronic must intimidate the victim (excl. Attack on the animatronic) [Punishment: warn / Ban 10-20min]!",
+	"Hate speech, predatory behaviour, graphic violence, malicious attacks, and content that promotes harmful or dangerous behaviour isn't allowed!",
 	"FearRP is basicly a value for your life, as in real life. If held at gunpoint and is mugged for $1000, you want to drop the money because if you don't- you will die. This works for Raids, Mugs, Kidnappings, Hostage Situations, Etc!",
 	"User & message content sent in this server must comply to the Community Guidelines. Any content violating this will be removed, and any users violating this will be removed from this Gmod server!",
         "Disconnect, suicide, change jobs, Change names, Etc. to get out of a roleplay/staff situation. This will result in a harsher or additional punishment!",
@@ -177,7 +177,7 @@ var l_messages = [
         "Parties may advert PARTY then the action they are making ie( RAID, MUG, KIDNAP, ETC ) letting all party members participate in that action together. Anyone involved is Placed under cooldown for said action!",
         "Harassment or any type of abuse isn't tolerated here, this includes verbal abuse, Biased critique, and other types of abuse/harassment!",
         "Animatronics cannot exit the restaurant They cannot chase players outside the restaurant, but they can do /me grabs child before they leave the restaurant!",
-        "Unless an administrator asks of you if you're applying for staff, do not state your age. Thank you!",
+        "If your Behaviour is consistently immature, juvenile, and obnoxious, you will be removed from the server!",
         "Baited NSFW is also not allowed (Fake NSFW used to trick people into things like rick rolls!",
         "It Is forbidden to attack with a splash through props, walls, outside the territory of the pizzeria. It is also forbidden to intentionally attack animatronics and plush toys while outside the territory of the pizzeria. It is forbidden to climb stairs (excl. Purple Guy in the guise of a security guard. Punishment: warn / Ban 10-20min!",
         "No jokes about mental illnesses, sexualities, or religions/political stuff. (Ex. Cancer, Autism, Gay, etc!",
@@ -185,7 +185,7 @@ var l_messages = [
         "It is forbidden to Prop Abuse, Fly on a prop / object, or to Lift, push someone, spam with a prop / object, as well as climb props that do not obey the laws of physics (you CAN build stairs) and build non-physical structures. It is also forbidden to build near the fountain and in the pizzeria. [Punishment: warn / Ban 10-20min!",
         "Using offensive humor is NOT okay. With everything going on, with racism and other problems around the world, we (as staff) will be more strict if we need to be!",
         "You cannot take over places. If you raid a place, you must leave after you have accomplished your goal. Do NOT stay to prevent people from returning for an extended period of time!",
-        "Users should not specifically target or harass another player, With malicious intentions!",
+        "No loop-holes around the rules, once caught, you get a severe warning!",
         "If you are handcuffed, you must comply with the officer. Not doing so can be considered FailRP. If the police officer gets distracted and leaves you alone, you may attempt an escape!",
         "If somebody is wanted you may AOS/KOS the person. In order to KOS, you must warn the criminal at least 3 times to stop Moving. If they comply, you must arrest them instead!",
         "Hate speech, predatory behaviour, graphic violence, malicious attacks, and content that promotes harmful or dangerous behaviour isn't allowed!",
