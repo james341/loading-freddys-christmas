@@ -133,7 +133,7 @@ var l_musicPlaylist = [
         {youtube: "oLgoshZeA8Q", name: "Nations - Installation Music"},
         {youtube: "mng4p8yWFjs", name: "Nations - Installation Music"},
 	{youtube: "rWf7ArCy-Dg", name: "Nations - Installation Music"},
-	{youtube: "3k-YIt2p5AU", name: "Nations - Installation Music"},
+	{youtube: "MtKkatg87TM", name: "Nations - Installation Music"},
 	{youtube: "IBpEYFI7qMo", name: "Nations - Installation Music"},
 	{youtube: "RmUWWVZw28E", name: "Nations - Installation Music"},
 	{youtube: "FuAHR4lkjCo", name: "Nations - Installation Music"},
@@ -152,7 +152,7 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"Hate speech, predatory behaviour, graphic violence, malicious attacks, and content that promotes harmful or dangerous behaviour isn't allowed!",
+	"Evading a punishment by using an alternative account is not allowed. If caught, you will be kicked. If your original account was banned, your alternative account will also be Banned!",
 	"FearRP is basicly a value for your life, as in real life. If held at gunpoint and is mugged for $1000, you want to drop the money because if you don't- you will die. This works for Raids, Mugs, Kidnappings, Hostage Situations, Etc!",
 	"User & message content sent in this server must comply to the Community Guidelines. Any content violating this will be removed, and any users violating this will be removed from this Gmod server!",
         "Disconnect, suicide, change jobs, Change names, Etc. to get out of a roleplay/staff situation. This will result in a harsher or additional punishment!",
