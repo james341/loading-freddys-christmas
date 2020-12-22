@@ -96,6 +96,7 @@ var l_bgImages = [
 	"image41.jpg",
 	"image42.jpg",
 	"image43.jpg",
+	"image44.jpg",
 ];
 
 /*Random background images order?*/
@@ -138,7 +139,7 @@ var l_musicPlaylist = [
 	{youtube: "rWf7ArCy-Dg", name: "Nations - Installation Music"},
 	{youtube: "PS9xd6bXQ5E", name: "Nations - Installation Music"},
 	{youtube: "IBpEYFI7qMo", name: "Nations - Installation Music"},
-	{youtube: "RmUWWVZw28E", name: "Nations - Installation Music"},
+	{youtube: "dh2kT8wDvbM", name: "Nations - Installation Music"},
 	{youtube: "FuAHR4lkjCo", name: "Nations - Installation Music"},
 
 ];
